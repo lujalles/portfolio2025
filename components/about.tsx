@@ -113,7 +113,7 @@ export function About() {
 
               <p className="text-muted-foreground">
                 Actualmente estoy especializándome en{" "}
-                <span className="text-primary font-medium">desarrollo web, experiencia de usuario y análiis de datos</span>. Contribuyo a la creación y mantenimiento de componentes de UI
+                <span className="text-primary font-medium">desarrollo web, experiencia de usuario y análisis de datos</span>. Contribuyo a la creación y mantenimiento de componentes de UI
                 que alimentan aplicaciones modernas, desarrollo proyectos completos que integran inteligencia artificial de punta a punta y continúo mi formación en el análisis de datos. Además, tengo un interés particular en la
                 accesibilidad web, la automatización de procesos y la optimización del rendimiento. 
               </p>

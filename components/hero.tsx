@@ -156,7 +156,7 @@ export function Hero() {
             </div>
             <h3 className="font-semibold text-foreground mb-2">Innovación Tecnológica</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Apasionada por explorar nuevas tecnologías y implementar soluciones creativas.
+              Apasionada por explorar nuevas tecnologías e implementar soluciones creativas.
             </p>
           </div>
 

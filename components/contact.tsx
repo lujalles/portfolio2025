@@ -61,7 +61,7 @@ export function Contact() {
                 className="bg-gradient-to-r from-primary to-blue-400 hover:from-primary/90 hover:to-blue-400/90 text-primary-foreground hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                 asChild
               >
-                <a href="mailto:luciajalles04@email.com">
+                <a href="mailto:luciajalles04@gmail.com">
                   <Mail className="h-5 w-5 mr-2" />
                   Enviar mensaje
                 </a>
@@ -71,7 +71,7 @@ export function Contact() {
 
           <div className="grid md:grid-cols-3 gap-6">
             {[
-              { icon: Mail, title: "Email", info: "luciajalles04@email.com" },
+              { icon: Mail, title: "Email", info: "luciajalles04@gmail.com" },
               { icon: MapPin, title: "Ubicación", info: "Argentina" },
               { icon: Phone, title: "Teléfono", info: "+5493872133377" },
             ].map((contact, index) => (

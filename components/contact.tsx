@@ -61,7 +61,7 @@ export function Contact() {
                 className="bg-gradient-to-r from-primary to-blue-400 hover:from-primary/90 hover:to-blue-400/90 text-primary-foreground hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
                 asChild
               >
-                <a href="mailto:luciajalles04@gmail.com">
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luciajalles04@email.com" target="_blank" rel="noopener noreferrer">
                   <Mail className="h-5 w-5 mr-2" />
                   Enviar mensaje
                 </a>

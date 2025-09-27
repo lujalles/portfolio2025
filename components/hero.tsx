@@ -130,7 +130,7 @@ export function Hero() {
               className="border-border hover:bg-gradient-to-r hover:from-purple-400/20 hover:to-primary/20 hover:border-purple-400 bg-transparent hover:scale-110 transition-all duration-300 hover:shadow-lg hover:shadow-purple-400/25"
               asChild
             >
-              <a href="mailto:luciajalles04@email.com">
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luciajalles04@email.com" target="_blank" rel="noopener noreferrer">
                 <Mail className="h-5 w-5" />
               </a>
             </Button>
